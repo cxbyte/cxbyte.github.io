@@ -2,105 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95055803-1d21-4558-b062-37f183fd77ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/support.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/dependabot.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/greetings.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/sitetext.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/style.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/clients.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/modals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/navheader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/portfolio_grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/team.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/timeline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio_under_constuction/example.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio_under_constuction/project1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio_under_constuction/project2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/base/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/base/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/components/client-scroll.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_masthead.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_portfolio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_services.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_team.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_sass/layout/_timeline.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/agency.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/creative-market.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/designmodo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/envato.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/clients/themeforest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/contact.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/04-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/05-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/06-thumbnail.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/team/500x500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/timeline/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/timeline/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/timeline/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/timeline/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/agency.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/contact_me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jqBootstrapValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jekyll-agency.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-09-19-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/sitetext.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/sitetext.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600535106261</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="init commit">
+      <created>1600547899133</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600547899133</updated>
+    </task>
+    <task id="LOCAL-00013" summary="init commit">
+      <created>1600548395432</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600548395432</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,17 +158,17 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="564" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1600534818871" />
-    <state x="417" y="100" key="CommitChangelistDialog2" timestamp="1600535106096">
+    <state x="417" y="100" key="CommitChangelistDialog2" timestamp="1600548395265">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="417" y="100" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1600535106096" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1600535107633">
+    <state x="417" y="100" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1600548395265" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1600548396935">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600535107633" />
-    <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1600547348167">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600548396935" />
+    <state x="541" y="280" width="598" height="490" key="find.popup" timestamp="1600600414294">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1600547348167" />
+    <state x="541" y="280" width="598" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1600600414294" />
   </component>
 </project>

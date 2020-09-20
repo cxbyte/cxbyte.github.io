@@ -9,7 +9,7 @@ services:
       - title: "Consulting"
         desc: "Architectural Solutions"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Development/Tests"
+      - title: "Development"
         desc: "Golang/PHP/VueJS"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Deployment"
